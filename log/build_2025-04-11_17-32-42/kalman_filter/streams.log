@@ -1,0 +1,18 @@
+[3.490s] Invoking command in '/home/ammar/turtlebot3_localization/build/kalman_filter': PYTHONPATH=/home/ammar/turtlebot3_localization/build/kalman_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ammar/turtlebot3_localization/build/kalman_filter/build --no-deps symlink_data
+[3.851s] running develop
+[4.209s] running egg_info
+[4.209s] writing kalman_filter.egg-info/PKG-INFO
+[4.209s] writing dependency_links to kalman_filter.egg-info/dependency_links.txt
+[4.209s] writing entry points to kalman_filter.egg-info/entry_points.txt
+[4.210s] writing requirements to kalman_filter.egg-info/requires.txt
+[4.210s] writing top-level names to kalman_filter.egg-info/top_level.txt
+[4.213s] reading manifest file 'kalman_filter.egg-info/SOURCES.txt'
+[4.214s] writing manifest file 'kalman_filter.egg-info/SOURCES.txt'
+[4.217s] running build_ext
+[4.217s] Creating /home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman-filter.egg-link (link to .)
+[4.217s] Installing KalmanFilter script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+[4.218s] Installing Noise script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+[4.218s] 
+[4.218s] Installed /home/ammar/turtlebot3_localization/build/kalman_filter
+[4.218s] running symlink_data
+[4.266s] Invoked command in '/home/ammar/turtlebot3_localization/build/kalman_filter' returned '0': PYTHONPATH=/home/ammar/turtlebot3_localization/build/kalman_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ammar/turtlebot3_localization/build/kalman_filter/build --no-deps symlink_data

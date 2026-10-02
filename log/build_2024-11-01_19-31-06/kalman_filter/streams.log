@@ -1,0 +1,18 @@
+[0.809s] Invoking command in '/home/ammar/turtlebot3_localization/build/kalman_filter': PYTHONPATH=/home/ammar/turtlebot3_localization/build/kalman_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ammar/turtlebot3_localization/build/kalman_filter/build --no-deps symlink_data
+[1.112s] running develop
+[1.326s] running egg_info
+[1.326s] writing kalman_filter.egg-info/PKG-INFO
+[1.326s] writing dependency_links to kalman_filter.egg-info/dependency_links.txt
+[1.327s] writing entry points to kalman_filter.egg-info/entry_points.txt
+[1.327s] writing requirements to kalman_filter.egg-info/requires.txt
+[1.327s] writing top-level names to kalman_filter.egg-info/top_level.txt
+[1.328s] reading manifest file 'kalman_filter.egg-info/SOURCES.txt'
+[1.329s] writing manifest file 'kalman_filter.egg-info/SOURCES.txt'
+[1.330s] running build_ext
+[1.330s] Creating /home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman-filter.egg-link (link to .)
+[1.331s] Installing KalmanFilter script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+[1.331s] Installing Noise script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+[1.331s] 
+[1.331s] Installed /home/ammar/turtlebot3_localization/build/kalman_filter
+[1.331s] running symlink_data
+[1.364s] Invoked command in '/home/ammar/turtlebot3_localization/build/kalman_filter' returned '0': PYTHONPATH=/home/ammar/turtlebot3_localization/build/kalman_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ammar/turtlebot3_localization/build/kalman_filter/build --no-deps symlink_data

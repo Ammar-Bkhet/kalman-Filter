@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing kalman_filter.egg-info/PKG-INFO
+writing dependency_links to kalman_filter.egg-info/dependency_links.txt
+writing entry points to kalman_filter.egg-info/entry_points.txt
+writing requirements to kalman_filter.egg-info/requires.txt
+writing top-level names to kalman_filter.egg-info/top_level.txt
+reading manifest file 'kalman_filter.egg-info/SOURCES.txt'
+writing manifest file 'kalman_filter.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages/kalman-filter.egg-link (link to .)
+Installing EKF script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+Installing KalmanFilter script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+Installing Noise script to /home/ammar/turtlebot3_localization/install/kalman_filter/lib/kalman_filter
+
+Installed /home/ammar/turtlebot3_localization/build/kalman_filter
+running symlink_data

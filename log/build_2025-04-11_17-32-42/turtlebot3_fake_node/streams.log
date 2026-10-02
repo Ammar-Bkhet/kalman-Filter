@@ -1,0 +1,33 @@
+[0.100s] Invoking command in '/home/ammar/turtlebot3_localization/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ammar/ros2_ws/install/test_serial:/home/ammar/turtlebot3_localization/install/kalman_filter:/home/ammar/f110_labs_ws/install/autodrive_nigel:/home/ammar/f110_labs_ws/install/autodrive_f1tenth:/home/ammar/sim_ws/install/f1tenth_gym_ros:/opt/ros/humble /usr/bin/cmake --build /home/ammar/turtlebot3_localization/build/turtlebot3_fake_node -- -j12 -l12
+[1.532s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[13.612s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[16.024s] [100%] Built target turtlebot3_fake_node
+[16.036s] Invoked command in '/home/ammar/turtlebot3_localization/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ammar/ros2_ws/install/test_serial:/home/ammar/turtlebot3_localization/install/kalman_filter:/home/ammar/f110_labs_ws/install/autodrive_nigel:/home/ammar/f110_labs_ws/install/autodrive_f1tenth:/home/ammar/sim_ws/install/f1tenth_gym_ros:/opt/ros/humble /usr/bin/cmake --build /home/ammar/turtlebot3_localization/build/turtlebot3_fake_node -- -j12 -l12
+[16.080s] Invoking command in '/home/ammar/turtlebot3_localization/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ammar/ros2_ws/install/test_serial:/home/ammar/turtlebot3_localization/install/kalman_filter:/home/ammar/f110_labs_ws/install/autodrive_nigel:/home/ammar/f110_labs_ws/install/autodrive_f1tenth:/home/ammar/sim_ws/install/f1tenth_gym_ros:/opt/ros/humble /usr/bin/cmake --install /home/ammar/turtlebot3_localization/build/turtlebot3_fake_node
+[16.145s] -- Install configuration: ""
+[16.221s] -- Execute custom install script
+[16.246s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[16.279s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[16.280s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[16.281s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[16.297s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[16.298s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[16.299s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[16.300s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[16.301s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[16.302s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[16.303s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[16.303s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[16.303s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[16.304s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[16.304s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[16.304s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[16.304s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[16.304s] -- Symlinking: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[16.310s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[16.311s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[16.311s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[16.311s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[16.311s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[16.311s] -- Up-to-date symlink: /home/ammar/turtlebot3_localization/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[16.313s] Invoked command in '/home/ammar/turtlebot3_localization/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ammar/ros2_ws/install/test_serial:/home/ammar/turtlebot3_localization/install/kalman_filter:/home/ammar/f110_labs_ws/install/autodrive_nigel:/home/ammar/f110_labs_ws/install/autodrive_f1tenth:/home/ammar/sim_ws/install/f1tenth_gym_ros:/opt/ros/humble /usr/bin/cmake --install /home/ammar/turtlebot3_localization/build/turtlebot3_fake_node

@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ammar/turtlebot3_localization/build/kalman_filter",
+        "/home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages",
+        "/home/ammar/ros2_ws/build/my_robot_controller",
+        "/home/ammar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ammar/turtlebot3_localization/build/kalman_filter",
+        "/home/ammar/turtlebot3_localization/install/kalman_filter/lib/python3.10/site-packages",
+        "/home/ammar/ros2_ws/build/my_robot_controller",
+        "/home/ammar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
